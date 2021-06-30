@@ -10,3 +10,5 @@ Some R programming statements
 And some basic knowledge about machine learning and big data
 
 # day2
+Today I learned how to use R to create a model
+And how to use this model to analyze data, such as pi
